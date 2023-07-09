@@ -1,0 +1,28 @@
+header a[href="index.html"] {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+}
+footer a[href="index.html"] {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+}
+nav ul li a {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+section ul li button {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+section h1, h2, h3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+footer ul, li, a {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
